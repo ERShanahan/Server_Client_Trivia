@@ -1,6 +1,3 @@
-// Ethan Shanahan
-// I pledge my honor that I have abided by the Stevens Honor System.
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
